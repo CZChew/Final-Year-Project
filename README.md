@@ -7,4 +7,4 @@ Language used:
 Python (Jupyter Notebook)
 
 Software used:
-Anaconda (Visual Studio)
+Anaconda (Visual Studio Code)
